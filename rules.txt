@@ -1,0 +1,2 @@
+> Eldest first (for siblings), Ladies first (for spouse)
+> id	name	isFem(F/M)(class)	level(generation)(class)	dadid(meta/connect)	momid	x	y
